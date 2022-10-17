@@ -1,0 +1,7 @@
+README.md
+setup.py
+melo_image_processing.egg-info/PKG-INFO
+melo_image_processing.egg-info/SOURCES.txt
+melo_image_processing.egg-info/dependency_links.txt
+melo_image_processing.egg-info/requires.txt
+melo_image_processing.egg-info/top_level.txt
